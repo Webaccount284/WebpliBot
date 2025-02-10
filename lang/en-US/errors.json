@@ -1,0 +1,47 @@
+{
+    "translation_credits": [
+        "Put your name here on your respective language's file if you've translated!"
+    ],
+    "error": {
+        "placeholder": "This feature has not been implemented yet!",
+        "generic": "Action Failed",
+        "botbanned": "You cannot use the bot as you have been bot banned!",
+        "message": {
+            "deleted": "This message has already been deleted!",
+            "invalid": {
+                "title": "Invalid Message ID!",
+                "description": "Make sure the message hasn't been deleted and that it can be fetched."
+            },
+            "no_author": "The author of this message could not be found!"
+        },
+        "texture": {
+            "no_results": {
+                "title": "No results found!",
+                "description": "No results were found for %TEXTURENAME%. Have you made a typo?"
+            },
+            "no_image": {
+                "title": "Image not found!",
+                "description": "`%TEXTURENAME%` hasn't been made for %PACK% in version %VERSION% yet or is ignored!"
+            }
+        },
+        "invalid_choice": {
+            "title": "Invalid choice!",
+            "description": "`%CHOICE%` is not a valid keyword! Have you made a typo?"
+        },
+        "image": {
+            "too_big": "This image is too big!",
+            "too_long": "This image is too long!",
+            "max_size": "The maximum size for an image is 1024px².",
+            "max_length": "The maximum length for a tilesheet is 32 frames.",
+            "not_found": "No image was found!",
+            "suggestion": "Make sure you uploaded an image, replied to a valid image, used a valid image URL, or are in the correct channel."
+        },
+        "command": "One of my developers made an error while making this command! Don't worry, the error is not on your side. Please contact <@360249987927638016>, <@473860522710794250>, or <@173336582265241601> if this keeps occurring.",
+        "polls_removed": "CompliBot polls have been made redundant by the native Discord feature and have thus been removed.",
+        "permission": {
+            "notice": "You don't have permission to do that!",
+            "role_locked": "Only %TYPE%s can use this.",
+            "user_locked": "Only %USER% can use this."
+        }
+    }
+}

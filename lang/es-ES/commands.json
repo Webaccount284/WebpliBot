@@ -1,0 +1,58 @@
+{
+    "translation_credits": [
+        "Banjoei :3"
+    ],
+    "command": {
+        "animate": {
+            "invalid_text": {
+                "title": "¡Las reglas del MCMETA son inválidas!",
+                "description": "Errores comunes incluyen no entrecomillando las propiedades o colocando mal un carácter."
+            },
+            "invalid_file": {
+                "title": "¡Archivo MCMETA no válido!",
+                "description": "No se ha encontrado ninguna función `animation` en el archivo. Compruebe que cargó el archivo correcto."
+            }
+        },
+        "botban": {
+            "unbannable": {
+                "title": "¡No se puede prohibir a este usuario el uso del bot!",
+                "description": "No se puede prohibir el uso del bot a ti mismo, los desarrolladores, ni a las personas con privilegios de administrador."
+            }
+        },
+        "embed": {
+            "not_enough_arguments": "¡No se aportó suficiente información!",
+            "need_more_info": "Es necesario tener una descripción o un título para una inserción."
+        },
+        "poll": {
+            "ended": "¡Esta encuesta ha terminado!",
+            "suggestion": "¡Usa /poll para hacer una encuesta!",
+            "vote": {
+                "counted": "¡Su voto ha sido añadido!",
+                "counted_suggestion": "Puedes retirar tu voto usando otra reacción.",
+                "removed": "¡Su voto ha sido eliminado!",
+                "removed_suggestion": "Puedes añadir un nuevo voto usando otra reacción."
+            },
+            "timeout": {
+                "no_type_given": "¡El tiempo dado no especifica cuánto dura!",
+                "example_types": "Ejemplo: `30s`, `1 min`, `10 hours`, `1 day`, `1 week`, `1 month`, `1 year`"
+            }
+        },
+        "stats": {
+            "usage": "%COMMAND% se ha ejecutado %USE% veces.",
+            "top_ten": "Los 10 comandos más utilizados:",
+            "not_found": "¡El comando `%COMMAND%` no existe!"
+        },
+        "info": {
+            "title": "Hola, soy CompliBot. Fui hecho para los servidores de Faithful en Discord.",
+            "subtitle": "Y creo que salí bastante bien.",
+            "features": {
+                "title": "Funcionalidades",
+                "description": "- Interacción con texturas en tiempo real utilizando `/texture`, `/compare` y `/cycle`.\n- Comprueba el progreso del paquete de recursos con `/missing` o revisa tus contribuciones con `/contributions`.\n- Utilidades para la modificación de imágenes como `/magnify`, `/tile`, `/palette` y `/animate`."
+            },
+            "developing": {
+                "title": "Desarrollando",
+                "description": "Mi código es totalmente público (escrito en TypeScript y Discord.js) y se puede clonar en mi repositorio de GitHub [aquí](https://github.com/faithful-resource-pack/complibot).\n\nSi estás interesado en desarrollar, contacta a <@473860522710794250>, <@360249987927638016> o <@173336582265241601> (en inglés) por más información."
+            }
+        }
+    }
+}
