@@ -1,7 +1,7 @@
 {
-    "name": "complibot",
+    "name": "webplibot",
     "version": "4.0.0",
-    "description": "The official bot for the Faithful Discord servers.",
+    "description": "The official bot for the unoffical Faithful 32x Progart Discord server.",
     "main": "src/index.ts",
     "scripts": {
         "start": "node -r ts-node/register -r tsconfig-paths/register src/index.ts",
