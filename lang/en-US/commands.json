@@ -1,0 +1,57 @@
+{
+    "translation_credits": [
+        "Put your name here on your respective language's file if you've translated!"
+    ],
+    "command": {
+        "animate": {
+            "invalid_text": {
+                "title": "Your MCMETA rules are invalid!",
+                "description": "Common errors include not double-quoting property key names or misplacing a character."
+            },
+            "invalid_file": {
+                "title": "Invalid MCMETA file!",
+                "description": "No `animation` property was found on the file. Please check that you uploaded the correct file."
+            }
+        },
+        "about": {
+            "missing_profile": {
+                "title": "%USER% has no contributions!",
+                "description": "No database profile was found for this user.",
+                "register": "Register at https://webapp.faithfulpack.net to get accurate contribution information and credits."
+            }
+        },
+        "coin": {
+            "reflip": {
+                "title": "Coin re-flipped!",
+                "description": "If you don't get the result you want, try, try again..."
+            }
+        },
+        "botban": {
+            "unbannable": {
+                "title": "This user cannot be botbanned!",
+                "description": "You cannot botban yourself, a developer, or someone with administrator permissions."
+            }
+        },
+        "embed": {
+            "not_enough_arguments": "Not enough information was provided!",
+            "need_more_info": "You need to have either a description or title for an embed."
+        },
+        "stats": {
+            "usage": "%COMMAND% has run %USE% times.",
+            "top_ten": "Top 10 most used commands:",
+            "not_found": "The command `%COMMAND%` doesn't exist!"
+        },
+        "info": {
+            "title": "Hi, I'm CompliBot. I was made for the Faithful Discord servers.",
+            "subtitle": "And I think I turned out pretty well.",
+            "features": {
+                "title": "Features",
+                "description": "- Real-time texture interaction using `/texture`, `/compare`, and `/cycle`.\n- Check resource pack progress with `/missing` or check your contributions with `/contributions`.\n- Image manipulation utilities such as `/magnify`, `/tile`, `/palette`, and `/animate`."
+            },
+            "developing": {
+                "title": "Developing",
+                "description": "I'm fully open source (written in TypeScript and Discord.js) and can be cloned at my GitHub repository [here](https://github.com/Webaccount284/WebpliBot).\n\nIf you're interested in developing, contact <@801535370851909662> for more information."
+            }
+        }
+    }
+}
