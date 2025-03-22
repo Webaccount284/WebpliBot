@@ -1,6 +1,6 @@
 <img src="https://database.faithfulpack.net/images/branding/logos/transparent/hd/complibot_logo.png?w=256" alt="CompliBot Logo" align="right">
 <div align="center">
-  <h1>Webplibo</h1>
+  <h1>Webplibot</h1>
   <h3>The official bot for the unoffical Faithful 32x Progart Discord server.</h3>
 
   ![RepoSize](https://img.shields.io/github/repo-size/Faithful-Resource-Pack/CompliBot)
